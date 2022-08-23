@@ -1,0 +1,47 @@
+body {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+.donate-area {
+    background-image: url(images/donation6.jpg);
+    color: white;
+}
+
+button {
+    font-weight: 700;
+    padding: 20px 40px;
+    font-size: 30px;
+    color: white;
+    background-color: tomato;
+    text-decoration: none;
+    border-radius: 10;
+}
+
+.tk {
+    display: flex;
+    margin-left: 1050px;
+    position: fixed;
+
+}
+
+.faded {
+    color: #B3B3B3;
+}
+
+hr {
+
+    width: 50%;
+    margin-right: 600px;
+}
+
+.provide {
+    display: flex;
+    margin-left: 1000px;
+}
+
+footer {
+    background-color: black;
+    color: tomato;
+}
